@@ -10,4 +10,4 @@ Git - Commit... ✔
 Git - Remote - Push
 # Colocar el link de GitHub en Repository URL - NEXT
 # Master - Next - Finish - Yes 
-#F5 en GitHub
+#F5 en GitHub.
