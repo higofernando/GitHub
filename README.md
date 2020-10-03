@@ -1,6 +1,6 @@
 # GitHub
 
-New repository en GitHub
+Crear New repository en GitHub
 Create repository
 
 Seleccionar proyecto creado en Netbeans
